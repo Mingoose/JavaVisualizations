@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=point
+comment0.text=\n\ Write\ a\ description\ of\ class\ point\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=xarg\ yarg
+comment1.target=point(int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ point\n
+numComments=2

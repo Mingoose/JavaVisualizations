@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=doublePen
+comment0.text=\n\ Write\ a\ description\ of\ class\ doublePen\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=doublePen()
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+numComments=4
